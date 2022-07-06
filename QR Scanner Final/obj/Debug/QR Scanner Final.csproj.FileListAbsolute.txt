@@ -1,0 +1,24 @@
+C:\Users\ASUS DEMO\source\repos\QR Scanner Final\QR Scanner Final\bin\Debug\QR Scanner Final.exe.config
+C:\Users\ASUS DEMO\source\repos\QR Scanner Final\QR Scanner Final\bin\Debug\QR Scanner Final.exe
+C:\Users\ASUS DEMO\source\repos\QR Scanner Final\QR Scanner Final\bin\Debug\QR Scanner Final.pdb
+C:\Users\ASUS DEMO\source\repos\QR Scanner Final\QR Scanner Final\bin\Debug\AForge.dll
+C:\Users\ASUS DEMO\source\repos\QR Scanner Final\QR Scanner Final\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ASUS DEMO\source\repos\QR Scanner Final\QR Scanner Final\bin\Debug\AForge.Video.dll
+C:\Users\ASUS DEMO\source\repos\QR Scanner Final\QR Scanner Final\bin\Debug\zxing.dll
+C:\Users\ASUS DEMO\source\repos\QR Scanner Final\QR Scanner Final\bin\Debug\zxing.presentation.dll
+C:\Users\ASUS DEMO\source\repos\QR Scanner Final\QR Scanner Final\bin\Debug\AForge.xml
+C:\Users\ASUS DEMO\source\repos\QR Scanner Final\QR Scanner Final\bin\Debug\AForge.Video.xml
+C:\Users\ASUS DEMO\source\repos\QR Scanner Final\QR Scanner Final\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ASUS DEMO\source\repos\QR Scanner Final\QR Scanner Final\bin\Debug\zxing.pdb
+C:\Users\ASUS DEMO\source\repos\QR Scanner Final\QR Scanner Final\bin\Debug\zxing.xml
+C:\Users\ASUS DEMO\source\repos\QR Scanner Final\QR Scanner Final\bin\Debug\zxing.presentation.pdb
+C:\Users\ASUS DEMO\source\repos\QR Scanner Final\QR Scanner Final\bin\Debug\zxing.presentation.xml
+C:\Users\ASUS DEMO\source\repos\QR Scanner Final\QR Scanner Final\obj\Debug\QR Scanner Final.csproj.AssemblyReference.cache
+C:\Users\ASUS DEMO\source\repos\QR Scanner Final\QR Scanner Final\obj\Debug\QR Scanner Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS DEMO\source\repos\QR Scanner Final\QR Scanner Final\obj\Debug\QR_Scanner_Final.Form1.resources
+C:\Users\ASUS DEMO\source\repos\QR Scanner Final\QR Scanner Final\obj\Debug\QR_Scanner_Final.Properties.Resources.resources
+C:\Users\ASUS DEMO\source\repos\QR Scanner Final\QR Scanner Final\obj\Debug\QR Scanner Final.csproj.GenerateResource.cache
+C:\Users\ASUS DEMO\source\repos\QR Scanner Final\QR Scanner Final\obj\Debug\QR Scanner Final.csproj.CoreCompileInputs.cache
+C:\Users\ASUS DEMO\source\repos\QR Scanner Final\QR Scanner Final\obj\Debug\QR Scanner Final.csproj.CopyComplete
+C:\Users\ASUS DEMO\source\repos\QR Scanner Final\QR Scanner Final\obj\Debug\QR Scanner Final.exe
+C:\Users\ASUS DEMO\source\repos\QR Scanner Final\QR Scanner Final\obj\Debug\QR Scanner Final.pdb
